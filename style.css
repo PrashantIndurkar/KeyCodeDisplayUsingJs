@@ -31,6 +31,7 @@ body{
     min-width: 150px;
     position: relative;
     border-radius: 0.3rem;
+    text-transform: capitalize;
   }
 
   .key small {
